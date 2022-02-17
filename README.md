@@ -1,4 +1,4 @@
-# Corona-globle-Tracking
+# Corona-global-Tracking
 
 # COVID-19
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
